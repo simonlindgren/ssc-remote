@@ -1,4 +1,4 @@
-# JupyterHub on Swedish Science Cloud
+# JupyterLab on Swedish Science Cloud
 
 ## Get access to SSC
 
