@@ -14,7 +14,7 @@ If you work at a Swedish university, you can apply for free computing resources 
 2. 'Launch Instance' settings:
     - Details: Enter an instance name.
     - Source: Make sure that your chosen OS is picked. Set `Volume Size (GB)` to 1000 (SSC allows max 1TB).
-    - Flavor: Pick desired hardware. I chose `ssc.xlarge.highmem`.
+    - Flavor: Pick desired hardware.
     - Networks: Pick the NAISS network.
     - Network Ports: Skip for now.
     - Security Groups: Make sure `default` is picked.
